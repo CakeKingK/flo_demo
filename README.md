@@ -13,5 +13,11 @@ EX) Splash Screen Image
 
 
 
+
+# History
 v0.1
 set up basic UI
+
+
+v0.2
+arrange main code => devide into widget
