@@ -1,4 +1,4 @@
-# flo_demo
+# FLO_demo
 copying FLO APP music player UI
 
 EX) Music Player UI
