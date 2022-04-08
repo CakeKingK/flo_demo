@@ -21,3 +21,8 @@ set up basic UI
 
 v0.2
 arrange main code => devide into widget
+
+
+v0.3  220408
+-devide music player page widget => /lib/widget/*
+-building FLO main page
